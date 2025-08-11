@@ -1,0 +1,1 @@
+this project was me doing some tests trying to learn python to build a video player and image generator
